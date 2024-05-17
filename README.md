@@ -27,5 +27,6 @@ $ make clean
 $ make
 $ make qemu # GUI 윈도우가 뜸
 $ make qemu-nox # 터미널에서 바로 실행
+```
 
 [참고 블로그링크](https://chiho.one/build-xv6-on-m1-mac/)
